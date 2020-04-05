@@ -3,7 +3,8 @@
 * ServerMesagerie.java -- contine cel putin clasa ServerMesagerie
 * informatiiServer.txt -- fisier de informatii si parametri pentru server
 * Client.java -- contine cel putin clasa Client
-* Clasa Client va primi la executie, in linia de comanda, parametrii numeClient si parolaClient. #### In consola clientului vor trebui sa fie disponibile urmatoarele comenzi:
+* Clasa Client va primi la executie, in linia de comanda, parametrii numeClient si parolaClient 
+#### In consola clientului vor trebui sa fie disponibile urmatoarele comenzi:
 * signup -- folosita pentru inregistrarea unui client la server
 * login -- folosita pentru autentificarea la server, inceperea unei sesiuni
 * logout -- folosita pentru incheierea unei sesiuni la server
