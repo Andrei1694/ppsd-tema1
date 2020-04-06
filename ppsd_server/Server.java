@@ -1,7 +1,7 @@
 package ppsd_server;
 import java.io.*;
 import java.net.*;
-import  ppsd_server.ClientHandler;
+import ppsd_server.ClientHandler;
 
 public class Server {
     public static void main(String args[]) {
